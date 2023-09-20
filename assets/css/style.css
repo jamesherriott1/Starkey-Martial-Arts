@@ -5,15 +5,46 @@ h1 {
     color: #33ddff;
 }
 
+#menu {
+    font-size: 110%;
+    list-style-type: none;
+    letter-spacing: 4px;
+}
+
 nav {
     font-family: 'Franklin Gothic Medium', ' Arial Narrow', Arial, sans-serif;
+    padding: 5px;
     float: right;
-    padding: 20px;
-    margin-bottom: 50px;
+    vertical-align: text-top;
+    margin: 0;
 
 }
 
+div {
+    width: 80%;
+    background-color: gray;
+    ;
+}
+
 h2 {
+    padding: 5px;
+    position: center;
     text-align: center;
     color: #33ddff;
+}
+
+h3 {
+    padding: 5px;
+    position: center;
+    text-align: center;
+}
+
+p {
+    display: block;
+    width: 75%;
+    padding: 5px;
+    position: center;
+    text-align: center;
+    margin: 0 auto;
+
 }
