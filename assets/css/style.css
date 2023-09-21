@@ -14,7 +14,7 @@ h1 {
 
 #logo {
     float: left;
-    font-size: 300%;
+    font-size: 250%;
 }
 
 
@@ -25,12 +25,22 @@ h1 {
 
 }
 
+#logo,
+#menu {
+    line-height: 75px;
+
+}
+
 #menu li {
     float: right;
     margin-right: 30px;
 }
 
-#menu a{
+#menu a {
     text-decoration: none;
-    
+
+}
+
+#menu a:hover {
+    border: 1px solid;
 }
