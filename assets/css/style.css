@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
+
+#menu,
+h1,
+a {
+    line-height: 75px;
+}
+
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
