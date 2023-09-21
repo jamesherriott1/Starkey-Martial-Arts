@@ -61,6 +61,11 @@ h1 {
     font-family: oswald;
     text-transform: uppercase;
     letter-spacing: 5px;
-    width: 400;
+    width: 400px;
     height: 250px;
+    padding: 35px;
+    background-color: lightslategray;
+    bottom: 50px;
+    right: 100px;
+    left: 100px;
 }
