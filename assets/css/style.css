@@ -69,3 +69,30 @@ h1 {
     right: 100px;
     left: 100px;
 }
+
+#classes {
+    height: 600px;
+
+}
+
+#no-gi {
+    padding-top: 40px;
+    width: 33%;
+    float: left;
+    background-color: pink;
+
+}
+
+
+#women {
+    padding-top: 40px;
+    width: 33%;
+    float: right;
+    background-color: #38ef53;
+}
+
+#mma {
+    width: 33%;
+    margin: 0 auto;
+    background-color: lightblue;
+}
