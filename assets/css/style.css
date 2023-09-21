@@ -12,7 +12,11 @@ h1 {
     color: cadetblue;
 }
 
+#logo {
+    float: left;
+    font-size: 300%;
 
+}
 
 
 #menu {
