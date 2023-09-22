@@ -97,9 +97,19 @@ h1 {
     background-color: lightblue;
 }
 
-.no-gi-left{
+.no-gi-left {
     width: 50%;
-    float: right;
+    text-align: center;
+    padding: 20%;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.women-right {
+    width: 50%;
+    text-align: center;
+    padding: 20%;
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
