@@ -119,3 +119,10 @@ h1 {
     padding: 20%;
     margin-bottom: 50px
 }
+
+#results {
+    width: 50%;
+    text-align: center;
+    padding: 20%;
+
+}
