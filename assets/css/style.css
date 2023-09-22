@@ -73,11 +73,12 @@ h1 {
 #classes {
     height: 600px;
 
+
 }
 
 #no-gi {
     padding-top: 40px;
-    width: 33%;
+    width: 30%;
     float: left;
     background-color: pink;
 
@@ -86,15 +87,17 @@ h1 {
 
 #women {
     padding-top: 40px;
-    width: 33%;
+    width: 30%;
     float: right;
     background-color: #38ef53;
 }
 
 #mma {
-    width: 33%;
+    padding-top: 40px;
+    width: 30%;
     margin: 0 auto;
     background-color: lightblue;
+
 }
 
 .no-gi-left {
@@ -102,7 +105,7 @@ h1 {
     text-align: center;
     padding: 20%;
     line-height: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 
 .women-right {
@@ -110,18 +113,18 @@ h1 {
     text-align: center;
     padding: 20%;
     line-height: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 
 .mma-center {
     width: 50%;
     text-align: center;
     padding: 20%;
-    margin-bottom: 50px
+    margin-bottom: 100px
 }
 
 #results {
-    width: 50%;
+    width: 100%;
     text-align: center;
     padding: 20%;
 
