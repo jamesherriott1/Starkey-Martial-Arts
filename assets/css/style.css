@@ -48,7 +48,7 @@ h1 {
 #background-image {
     height: 600px;
     width: 100%;
-    background: url(file: ///workspaces/starkey-martial-arts/assets/images/WhatsApp%20Image%202023-09-17%20at%2020.18.29.jpeg)no-repeat center center;
+    background: url('https://imgur.com/GJaNFYj')
 }
 
 #cover-text,
