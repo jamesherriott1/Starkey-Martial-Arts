@@ -96,3 +96,11 @@ h1 {
     margin: 0 auto;
     background-color: lightblue;
 }
+
+.no-gi-left{
+    width: 50%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
