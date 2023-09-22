@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
 
 body {
+    background-color: lightslategrey;
+    background: url('https://imgur.com/GJaNFYj');
+    height: 600px;
     font-family: lato;
     color: #777;
 }
@@ -72,44 +75,43 @@ h1 {
 
 #classes {
     height: 600px;
-    margin-top: 100px;
+
 
 
 }
 
 #no-gi {
-    padding-top: 40px;
+    padding: 10px;
     width: 30%;
     float: left;
     background-color: pink;
+    text-align: center;
 
 }
 
 
 #women {
-    padding-top: 40px;
+    padding: 10px;
     width: 30%;
     float: right;
     background-color: #38ef53;
+    text-align: center;
 }
 
-#classes,
-#women {
-    margin-top: 100px;
-}
 
 #mma {
-    padding-top: 40px;
+    padding: 10px;
     width: 30%;
     margin: 0 auto;
     background-color: lightblue;
+    text-align: center;
 
 }
 
 .no-gi-left {
     width: 50%;
     text-align: center;
-    padding: 20%;
+    padding: 20px;
     line-height: 20px;
     margin-bottom: 100px;
 }
@@ -117,7 +119,7 @@ h1 {
 .women-right {
     width: 50%;
     text-align: center;
-    padding: 20%;
+    padding: 20px;
     line-height: 20px;
     margin-bottom: 100px;
 }
@@ -125,13 +127,17 @@ h1 {
 .mma-center {
     width: 50%;
     text-align: center;
-    padding: 20%;
+    padding: 20px;
     margin-bottom: 100px
 }
 
 #results {
     width: 100%;
     text-align: center;
-    padding: 20%;
+    padding: 20px;
 
+}
+
+section hr {
+    line-height: 50px;
 }
