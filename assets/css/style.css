@@ -102,7 +102,6 @@ h1 {
     text-align: center;
     padding: 20%;
     line-height: 20px;
-    clear: both;
     margin-bottom: 50px;
 }
 
@@ -111,6 +110,12 @@ h1 {
     text-align: center;
     padding: 20%;
     line-height: 20px;
-    clear: both;
     margin-bottom: 50px;
+}
+
+.mma-center {
+    width: 50%;
+    text-align: center;
+    padding: 20%;
+    margin-bottom: 50px
 }
