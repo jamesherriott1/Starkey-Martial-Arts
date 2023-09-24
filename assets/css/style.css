@@ -65,18 +65,20 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 5px;
     width: 400px;
-    height: 250px;
+    height: 300px;
     padding: 35px;
     background-color: lightslategray;
     bottom: 50px;
     right: 100px;
     left: 100px;
+    margin: 50px 10px;
 }
 
 #classes {
-    height: 600px;
+    height: 400px;
     width: 100%;
     display: flex;
+    margin-top: 50px;
 
 
 
