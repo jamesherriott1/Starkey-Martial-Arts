@@ -64,6 +64,14 @@ h1 {
 }
 
 #cover-text,
+#cover-text-timetable h2 {
+    font-size: 100%;
+    width: 400px;
+    height: 400px;
+
+}
+
+#cover-text,
 #cover-text h2 {
     color: rgb(67, 178, 237);
 }
