@@ -75,61 +75,34 @@ h1 {
 
 #classes {
     height: 600px;
+    width: 100%;
+    display: flex;
 
 
 
 }
 
 #no-gi {
-    padding: 10px;
-    width: 30%;
-    float: left;
-    background-color: pink;
-    text-align: center;
-
+    width: 33%;
+    margin: 10px;
+    background-color: cadetblue;
 }
 
 
 #women {
-    padding: 10px;
-    width: 30%;
-    float: right;
-    background-color: #38ef53;
-    text-align: center;
+    width: 33%;
+    margin: 10px;
+    background-color: cadetblue;
+
 }
 
 
 #mma {
-    padding: 10px;
-    width: 30%;
-    margin: 0 auto;
-    background-color: lightblue;
-    text-align: center;
-
+    width: 33%;
+    margin: 10px;
+    background-color: cadetblue;
 }
 
-.no-gi-left {
-    width: 50%;
-    text-align: center;
-    padding: 20px;
-    line-height: 20px;
-    margin-bottom: 100px;
-}
-
-.women-right {
-    width: 50%;
-    text-align: center;
-    padding: 20px;
-    line-height: 20px;
-    margin-bottom: 100px;
-}
-
-.mma-center {
-    width: 50%;
-    text-align: center;
-    padding: 20px;
-    margin-bottom: 100px
-}
 
 #results {
     width: 100%;
