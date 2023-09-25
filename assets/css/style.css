@@ -143,10 +143,21 @@ section hr {
     line-height: 50px;
 }
 
-#contact {
+#contact-us {
+    color: rgb(16, 16, 16);
+    font-size: large;
+    font-weight: bold;
+}
+
+.form-section {
     height: 50%;
-    width: 50%;
+    max-width: 400px;
     color: rgb(16, 16, 16);
     font-size: medium;
     background-color: rgb(67, 178, 237);
+    margin-top: 150px;
+    position: absolute;
+    margin-left: 10%;
+
+
 }
