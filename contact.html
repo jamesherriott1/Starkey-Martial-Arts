@@ -27,22 +27,23 @@
       </nav>
     </header>
     <hr />
-    <h2>Contact Us</h2>
+    <h2 id="contact-us">Contact Us</h2>
+    <section class="form-section">
     <form
-      id="contact"
       action="https://www.starkeymartialarts.com"
       method="post"
     >
-      <label for="first-name">first name</label>
-      <input id="first-name" type="text" name="first_name" />
-      <label for="last-name">last name</label>
-      <input id="last-name" type="text" name="last_name" />
-      <label for="email">email</label>
-      <input id="email" type="email" name="email" />
+     <label for="fname">First Name</label>
+     <input id="fname" type="text" name="first_name" required>
+         <label for="lname">Last Name</label>
+        <input id="lname" type="text" name="last_name" required>
+        <label for="email">Email Address</label>
+        <input id="email" type="email" name="email_address" required>
       <label for="text-area"></label>
       <textarea id="text-area" name="textarea" placeholder="Send Us A Message!">
       </textarea>
     </form>
+    </section>
   </body>
   <footer></footer>
 </html>
