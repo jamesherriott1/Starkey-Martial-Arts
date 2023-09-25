@@ -29,20 +29,35 @@
     <hr />
     <h2 id="contact-us">Contact Us</h2>
     <section class="form-section">
-    <form
-      action="https://www.starkeymartialarts.com"
-      method="post"
-    >
-     <label for="fname">First Name</label>
-     <input id="fname" type="text" name="first_name" required>
-         <label for="lname">Last Name</label>
-        <input id="lname" type="text" name="last_name" required>
+      <form action="https://www.starkeymartialarts.com" method="post">
+        <label for="fname">First Name</label>
+        <input
+          id="fname"
+          type="text"
+          name="first_name"
+          class="text-input"
+          required
+        />
+        <label for="lname">Last Name</label>
+        <input
+          id="lname"
+          type="text"
+          name="last_name"
+          class="text-input"
+          required
+        />
         <label for="email">Email Address</label>
-        <input id="email" type="email" name="email_address" required>
-      <label for="text-area"></label>
-      <textarea id="text-area" name="textarea" placeholder="Send Us A Message!">
-      </textarea>
-    </form>
+        <input
+          id="email"
+          type="email"
+          name="email_address"
+          class="text-input"
+          required
+        />
+        <label for="text-area">Send Us A Message!</label>
+        <textarea id="text-area" name="textarea" class="text-input"> </textarea>
+        <input type="submit" class="submit" value="send" />
+      </form>
     </section>
   </body>
   <footer></footer>
