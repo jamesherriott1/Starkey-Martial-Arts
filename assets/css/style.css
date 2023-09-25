@@ -4,7 +4,12 @@ body {
     background: url('https://imgur.com/GJaNFYj');
     background-color: lightslategrey;
     font-family: lato;
-    color: #777;
+    color: rgb(120, 120, 120);
+}
+
+.body-background {
+    max-height: 100%;
+    max-width: 100%;
 }
 
 #header {
@@ -85,12 +90,9 @@ h1 {
     width: 400px;
     height: 300px;
     padding: 35px;
-    background-color: rgb(238, 242, 247);
-    bottom: 50px;
-    right: 100px;
-    left: 100px;
-    margin: 50px 10px;
+    background-color: rgb(120, 120, 120, .8);
 }
+
 
 #classes {
     height: 400px;
