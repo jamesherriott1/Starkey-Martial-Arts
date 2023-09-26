@@ -97,7 +97,7 @@ h1 {
 #no-gi {
     width: 33%;
     margin: 10px;
-    background-color: rgb(67, 178, 237);
+    background-color: rgb(67, 178, 237, .8);
     font-size: larger;
     color: rgb(16, 16, 16);
     text-align: center;
@@ -107,7 +107,7 @@ h1 {
 #women {
     width: 33%;
     margin: 10px;
-    background-color: rgb(67, 178, 237);
+    background-color: rgb(67, 178, 237, .8);
     font-size: larger;
     color: rgb(16, 16, 16);
     text-align: center;
@@ -118,7 +118,7 @@ h1 {
 #mma {
     width: 33%;
     margin: 10px;
-    background-color: rgb(67, 178, 237);
+    background-color: rgb(67, 178, 237, .8);
     font-size: larger;
     color: rgb(16, 16, 16);
     text-align: center;
