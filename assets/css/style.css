@@ -34,9 +34,10 @@ h1 {
 #menu {
     width: 50%;
     float: right;
-    font-size: 110%;
+    font: oswald;
     list-style-type: none;
     letter-spacing: 4px;
+    color: rgb(16, 16, 16);
 
 }
 
@@ -262,10 +263,28 @@ h1 {
 }
 
 .footer {
+    height: 150px;
     width: 100%;
     min-height: 150px;
     display: flex;
     flex-direction: column;
     background-color: rgb(67, 178, 237, 0.8);
 
+}
+
+.socials {
+    text-align: center;
+
+}
+
+.socials li {
+    display: inline;
+}
+
+.socials i {
+    font-size: 150%;
+    margin: 1%;
+    padding: 5%;
+    color: rgb(16, 16, 16);
+    ;
 }
