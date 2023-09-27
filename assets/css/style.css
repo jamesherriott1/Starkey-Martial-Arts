@@ -266,12 +266,17 @@ h1 {
     font-size: larger;
 }
 
+.send {
+    color: rgb(16, 16, 16);
+    font-size: larger;
+}
+
 
 
 
 
 .text-input {
-    background-color: rgb(245, 245, 245);
+    background-color: rgb(245, 245, 245, .8);
     color: rgb(16, 16, 16);
     font-size: larger;
     height: 25px;
