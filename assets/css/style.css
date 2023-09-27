@@ -243,7 +243,7 @@ h1 {
 
 .form {
     width: 600px;
-    height: 300px;
+    height: 350px;
     margin: 0 auto;
     padding: 20px;
     background-color: rgb(67, 178, 237, .8);
@@ -269,6 +269,15 @@ h1 {
 .send {
     color: rgb(16, 16, 16);
     font-size: larger;
+}
+
+.submit {
+    height: 30px;
+    width: 100px;
+    font-family: oswald;
+    color: rgb(16, 16, 16);
+    background-color: rgba(188, 187, 187, 0.8);
+
 }
 
 
