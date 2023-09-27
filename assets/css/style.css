@@ -240,14 +240,30 @@ h1 {
     text-align: center;
 }
 
-.form-section {
-    width: 400px;
+
+.form {
+    width: 600px;
+    height: 600px;
     margin: 0 auto;
     padding: 20px;
     background-color: rgb(67, 178, 237, .8);
     border: 1px solid rgb(16, 16, 16);
 
+}
 
+.firstname {
+    color: rgb(16, 16, 16);
+    font-size: larger;
+}
+
+.lastname {
+    color: rgb(16, 16, 16);
+    font-size: larger;
+}
+
+.emailaddress {
+    color: rgb(16, 16, 16);
+    font-size: larger;
 }
 
 
