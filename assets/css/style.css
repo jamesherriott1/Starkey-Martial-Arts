@@ -254,22 +254,28 @@ h1 {
 .firstname {
     color: rgb(16, 16, 16);
     font-size: larger;
+
 }
 
 .lastname {
     color: rgb(16, 16, 16);
     font-size: larger;
+
 }
 
 .emailaddress {
     color: rgb(16, 16, 16);
     font-size: larger;
+
 }
+
 
 .send {
     color: rgb(16, 16, 16);
     font-size: larger;
+
 }
+
 
 .submit {
     height: 30px;
@@ -277,6 +283,7 @@ h1 {
     font-family: oswald;
     color: rgb(16, 16, 16);
     background-color: rgba(188, 187, 187, 0.8);
+    text-align: center;
 
 }
 
