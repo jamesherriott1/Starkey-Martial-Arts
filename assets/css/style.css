@@ -32,6 +32,7 @@ h1 {
 
 
 #menu {
+    height: 100px;
     width: 50%;
     float: right;
     font: oswald;
@@ -42,21 +43,23 @@ h1 {
 }
 
 #logo,
-#menu {
+#menu a {
     line-height: 75px;
 
 }
 
 #menu li {
     float: right;
-    font-size: large;
+    font-size: 20px;
     font-weight: bold;
     margin-right: 30px;
+    margin-top: 0 auto;
     color: rgb(16, 16, 16);
 }
 
 #menu a {
     text-decoration: none;
+    color: rgb(16, 16, 16);
 
 }
 
