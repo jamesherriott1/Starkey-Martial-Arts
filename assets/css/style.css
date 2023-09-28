@@ -246,23 +246,30 @@ h1 {
     text-transform: uppercase;
     font-weight: 100;
     letter-spacing: 5px;
-    width: 40%;
+    width: 50%;
     height: 50%;
     padding: 35px;
     background-color: rgb(67, 178, 237, .8);
-    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 20px;
+
 
 
 }
 
+.myclasses h2 {
+    display: block;
+}
+
 .class-timetable {
     width: 100%;
-    height: 100%;
+    height: 80%;
     background-color: rgba(188, 187, 187, .5);
     text-align: center;
     font-family: oswald;
     text-transform: uppercase;
     margin-top: 20px;
+    display: block;
 }
 
 .days {
@@ -274,6 +281,7 @@ h1 {
 
 .myTimetable {
     width: 100%;
+
 
 }
 
