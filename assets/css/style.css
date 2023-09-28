@@ -234,8 +234,10 @@ h1 {
 
 .class-timetable {
     width: 100%;
-    background-color: rgb(67, 178, 237, .8);
+    background-color: rgba(188, 187, 187, 0.8);
     text-align: center;
+    font-family: oswald;
+    text-transform: uppercase;
 }
 
 .days {
@@ -247,23 +249,18 @@ h1 {
 
 .myTimetable {
     width: 100%;
-    border-collapse: collapse;
-    table-layout: fixed;
+
 }
+
 
 .myTimetable thead {
     color: rgb(16, 16, 16);
 
 }
 
-.myTimetable tbody {
-    background-color: rgba(188, 187, 187, 0.8);
-
-}
-
 .myTimetable td {
-    border: 1px solid rgb(16, 16, 16);
-    padding: 6px;
+    border: 2px solid rgb(16, 16, 16);
+    padding: 10px;
     text-align: center;
 }
 
@@ -274,13 +271,14 @@ h1 {
 
 
 .class {
-    font-size: 12pt;
-    margin-bottom: 4px;
+    font-size: large;
+    margin: 4px;
 }
 
 .class-type {
-    font-size: 10pt;
-    font-style: italic;
+    font-size: large;
+    margin: 4px;
+
 }
 
 
