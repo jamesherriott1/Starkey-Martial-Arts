@@ -14,6 +14,7 @@ body {
 
 #header {
     height: 150px;
+    width: 100%;
     background-color: rgb(67, 178, 237);
 }
 
@@ -231,6 +232,47 @@ h1 {
     float: right;
 }
 
+.myTimetable {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+.myTimetable THEAD {
+    color: #FFFFFF;
+}
+
+.myTimetable TBODY {
+    background-color: #AAAAFF;
+}
+
+.myTimetable TD {
+    border: 1px solid black;
+    padding: 6px;
+    text-align: center;
+}
+
+.myTimetable TBODY TR TD:first-child {
+    background-color: #FF0066;
+    font-weight: bold;
+}
+
+.break,
+.lunch {
+    background-color: #FF0066 !important;
+    font-style: italic;
+}
+
+.subject {
+    font-size: 12pt;
+    margin-bottom: 4px;
+}
+
+.room {
+    font-size: 10pt;
+    font-style: italic;
+}
+
 
 #contact-us {
     color: rgb(16, 16, 16);
@@ -285,16 +327,17 @@ h1 {
     color: rgb(16, 16, 16);
     background-color: rgba(188, 187, 187, 0.8);
     text-align: center;
-    position: absolute;
-    margin: 50px 0px;
+    border: solid 2px rgb(67, 178, 237, .8);
 
 
 }
 
 .submit-form {
-    height: 400px;
+    height: 300px;
     width: 100%;
     text-align: center;
+    margin: 75px 0px;
+
 
 }
 
@@ -307,7 +350,7 @@ h1 {
     color: rgb(16, 16, 16);
     font-size: larger;
     height: 30px;
-    width: 500px;
+    width: 75%;
     margin: 5px 20px;
     border: 1px solid rgb(16, 16, 16);
     text-align: left;
