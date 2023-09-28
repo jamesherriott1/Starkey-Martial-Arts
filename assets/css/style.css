@@ -232,43 +232,53 @@ h1 {
     float: right;
 }
 
+.class-timetable {
+    width: 100%;
+    background-color: rgb(67, 178, 237, .8);
+    text-align: center;
+}
+
+.days {
+    font-size: x-large;
+    color: rgb(16, 16, 16);
+    text-align: center;
+
+}
+
 .myTimetable {
     width: 100%;
     border-collapse: collapse;
     table-layout: fixed;
 }
 
-.myTimetable THEAD {
-    color: #FFFFFF;
+.myTimetable thead {
+    color: rgb(16, 16, 16);
+
 }
 
-.myTimetable TBODY {
-    background-color: #AAAAFF;
+.myTimetable tbody {
+    background-color: rgba(188, 187, 187, 0.8);
+
 }
 
-.myTimetable TD {
-    border: 1px solid black;
+.myTimetable td {
+    border: 1px solid rgb(16, 16, 16);
     padding: 6px;
     text-align: center;
 }
 
-.myTimetable TBODY TR TD:first-child {
-    background-color: #FF0066;
+.myTimetable tbody tr td:first-child {
+    background-color: rgb(67, 178, 237, .8);
     font-weight: bold;
 }
 
-.break,
-.lunch {
-    background-color: #FF0066 !important;
-    font-style: italic;
-}
 
-.subject {
+.class {
     font-size: 12pt;
     margin-bottom: 4px;
 }
 
-.room {
+.class-type {
     font-size: 10pt;
     font-style: italic;
 }
