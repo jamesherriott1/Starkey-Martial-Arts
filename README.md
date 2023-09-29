@@ -1,10 +1,10 @@
 # Starkey Martial Arts - Milestone Project 1
 
- This is my first webpage and also my first project for ther course. Unfortunately the project wasn't given the time needed so it's not as complete as I would have liked. 
+ This is my first webpage and also my first project for ther course. Unfortunately the project wasn't given the time needed so it's not as complete as I would have liked.
 
 ## Technologies Used For This Site
 
-For this project I used HTML5 and CSS3. 
+For this project I used HTML5 and CSS3.
 
 The code was written using [Code Anywhere](<https://app.codeanywhere.com>) and [Git Hub](<https://github.com/>).
 
@@ -20,12 +20,9 @@ There are bits missing which i would like to add at a later date. For example, t
 
 This was the original idea which I'd put together in Balsamiq.
 
-![alt text](http://url/to/assets/images/wireframe1.png)
-
-
+<img width="560" alt="Screenshot 2023-09-29 at 09 49 27" src="https://github.com/jamesherriott1/starkey-martial-arts/assets/138055765/4f263fba-9abd-4508-883f-8036efce4e72">
 
 
 # Deployment
 
 ## Github Pages
-
