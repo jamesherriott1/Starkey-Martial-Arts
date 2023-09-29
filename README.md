@@ -18,9 +18,10 @@ I've tried to make it as simple as possible and keep it within the colour scheme
 
 There are bits missing which i would like to add at a later date. For example, the club logo on the header was something that was left out becuase of the poor design of it on Canva.
 
-this was the original idea which i"d put together in Balsamiq
+This was the original idea which I'd put together in Balsamiq.
 
-![alt text](http://url/to/wireframe1.png)
+![alt text](http://url/to/assets/images/wireframe1.png)
+
 
 
 
