@@ -4,4 +4,6 @@
 
 ## Technologies Used For This Site
 
-For this project I used HTML5 and CSS3. The code was written using (https://app.codeanywhere.com)
+For this project I used HTML5 and CSS3. The code was written using [Code Anywhere](<https://app.codeanywhere.com>) and [Git Hub](<https://github.com/>).
+
+
