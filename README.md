@@ -60,4 +60,8 @@ I had issues getting the background image to work so I styled it in HTML instead
 
 # Deployment
 
+To deploy this project, open [Github](<https://www.github.com>)
+
+Add <https://github.com/jamesherriott1/starkey-martial-arts> to search bar or alternatively click this link
+
 ## Github Pages
