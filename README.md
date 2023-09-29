@@ -60,8 +60,11 @@ I had issues getting the background image to work so I styled it in HTML instead
 
 # Deployment
 
-To deploy this project, open [Github](<https://www.github.com>)
+To open this repository in Github click [here](<https://github.com/jamesherriott1/starkey-martial-arts>)
 
-Add <https://github.com/jamesherriott1/starkey-martial-arts> to search bar or alternatively click this link
 
-## Github Pages
+## Notes
+
+I am aware that this is a poorly written README.md file.
+
+I wasn't aware of the amount of work and information that is required to create this file, which is somehting I will work to imptove on as the course progresses.
