@@ -22,6 +22,14 @@ This was the original idea which I'd put together in Balsamiq.
 
 <img width="560" alt="Screenshot 2023-09-29 at 09 49 27" src="https://github.com/jamesherriott1/starkey-martial-arts/assets/138055765/4f263fba-9abd-4508-883f-8036efce4e72">
 
+This is how it looks now.
+
+<img width="1426" alt="Screenshot 2023-09-29 at 10 08 57" src="https://github.com/jamesherriott1/starkey-martial-arts/assets/138055765/35755412-e2c1-4033-b1af-01a7aa86c7d5">
+
+<img width="1425" alt="Screenshot 2023-09-29 at 10 09 18" src="https://github.com/jamesherriott1/starkey-martial-arts/assets/138055765/e40834d0-c5ad-45dd-b61d-cfee8056b1a1">
+
+<img width="1425" alt="Screenshot 2023-09-29 at 10 09 37" src="https://github.com/jamesherriott1/starkey-martial-arts/assets/138055765/0f77fb3a-6cee-42d4-821d-fb32ef958a09">
+
 
 # Deployment
 
