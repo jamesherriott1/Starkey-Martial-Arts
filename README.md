@@ -14,6 +14,10 @@ For the wire frames in this file I used Balsamiq.
 
 This site was built for the martial arts club where I train. They relied on social media to share information so I sugeested a website where people can have an interactive experience while gathering all the information needed about the club.
 
+All of the information you need for classes and times in 1 place.
+
+In future I would like to add a coaches section, a logo to the header and anchors to the classes and coaches in the timetable element.
+
 I've tried to make it as simple as possible and keep it within the colour schemes of the club.
 
 There are bits missing which i would like to add at a later date. For example, the club logo on the header was something that was left out becuase of the poor design of it on Canva.
@@ -34,12 +38,14 @@ This is how it looks now.
 
 I came a cross quite a few issues, most of which were resolved by going back through the Code Institute tutorials to refresh my memory.
 
+There are still issues I haven't been able to solve, mostly positioning of elements.
+
 Issues where I needed external help are listed below.
 
 ### TimeTable HTML and CSS
 
 I struggled with making the table, even after going over the Code Institute videos, so I did a Google search to gain some more knowledge.
-I used some HTML and CSS from [101 Computing] (<https://www.101computing.net/my-timetable-in-html-css/>) for the basic structure of my timetable and added or removed code as neccessary.
+I used some HTML and CSS from [101 Computing](<https://www.101computing.net/my-timetable-in-html-css/>) for the basic structure of my timetable and added or removed code as neccessary.
 
 ### HTML Submit Button Outside The Form
 
