@@ -30,6 +30,23 @@ This is how it looks now.
 
 <img width="1425" alt="Screenshot 2023-09-29 at 10 09 37" src="https://github.com/jamesherriott1/starkey-martial-arts/assets/138055765/0f77fb3a-6cee-42d4-821d-fb32ef958a09">
 
+## Bugs And Fixes
+
+I came a cross quite a few issues, most of which were resolved by going back through the Code Institute tutorials to refresh my memory.
+
+Issues where I needed external help are listed below.
+
+### TimeTable HTML and CSS
+
+I struggled with making the table, even after going over the Code Institute videos, so I did a Google search to gain some more knowledge. 
+I used some HTML and CSS from [101 Computing] (<https://www.101computing.net/my-timetable-in-html-css/>) for the basic structure of my timetable and added or removed code as neccessary.
+
+### HTML Submit Button Outside The Form
+
+There were some styling issues with the submit button being inside my form element so I Googled how to put it outside and styled it.
+I got the code from [Dev Diaries](https://www.dev-diaries.com/social-posts/html-submit-button-outside-form/#:~:text=For%20a%20HTML%20form%20element,with%20the%20button's%20form%20property.)
+
+
 
 # Deployment
 
