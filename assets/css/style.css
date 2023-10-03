@@ -1,15 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
+@import url("https://fonts.googleapis.com/css?family=Oswald|Lato:300");
 
-body {
-    background: url('https://imgur.com/GJaNFYj');
-    background-color: lightslategrey;
-    font-family: oswald;
-    color: rgba(188, 187, 187, 0.8);
-}
-
-.body-background {
-    max-height: 100%;
-    max-width: 100%;
+.background-image {
+    background-image: url("https://i.imgur.com/GJaNFYj.jpg");
 }
 
 #header {
@@ -31,7 +23,6 @@ h1 {
     font-size: 250%;
 }
 
-
 #menu {
     height: 100px;
     width: 50%;
@@ -40,13 +31,11 @@ h1 {
     list-style-type: none;
     letter-spacing: 4px;
     color: rgb(16, 16, 16);
-
 }
 
 #logo,
 #menu a {
     line-height: 75px;
-
 }
 
 #menu li {
@@ -61,7 +50,6 @@ h1 {
 #menu a {
     text-decoration: none;
     color: rgb(16, 16, 16);
-
 }
 
 #menu a:hover {
@@ -71,10 +59,8 @@ h1 {
 #background-image {
     height: max-content;
     width: max-content;
-    background: url('https://i.imgur.com/GJaNFYjundefined.jpg')
+    background: url("https://i.imgur.com/GJaNFYjundefined.jpg");
 }
-
-
 
 #cover-text {
     font-size: 150%;
@@ -89,18 +75,13 @@ h1 {
     background-color: rgba(188, 187, 187, 0.8);
     margin-top: 20px;
     margin-bottom: 10px;
-
 }
-
 
 #classes {
     height: 450px;
     width: 100%;
     display: flex;
     margin-top: 20px;
-
-
-
 }
 
 .classes-header {
@@ -120,7 +101,7 @@ h1 {
     width: 40%;
     height: 50%;
     padding: 35px;
-    background-color: rgb(67, 178, 237, .8);
+    background-color: rgb(67, 178, 237, 0.8);
     color: rgb(16, 16, 16);
     margin-top: 10px;
     margin-bottom: 10px;
@@ -132,15 +113,12 @@ h1 {
     width: 33%;
     margin: 10px;
     height: 450px;
-    background-color: rgb(16, 16, 16, .8);
+    background-color: rgb(16, 16, 16, 0.8);
     font-size: x-large;
     color: rgb(67, 178, 237);
     text-align: center;
     border: solid 1px rgba(188, 187, 187, 0.8);
 }
-
-
-
 
 .women {
     width: 33%;
@@ -150,24 +128,21 @@ h1 {
     font-size: x-large;
     color: rgb(16, 16, 16);
     text-align: center;
-
 }
-
 
 .mma {
     width: 33%;
     margin: 10px;
     height: 450px;
-    background-color: rgb(67, 178, 237, .8);
+    background-color: rgb(67, 178, 237, 0.8);
     font-size: x-large;
     color: rgb(16, 16, 16);
     text-align: center;
 }
 
-
 .results {
     height: 150px;
-    background-color: rgb(67, 178, 237, .8);
+    background-color: rgb(67, 178, 237, 0.8);
     color: rgb(16, 16, 16);
     font-family: oswald;
     font-size: x-large;
@@ -180,22 +155,18 @@ h1 {
     padding: 35px;
     margin: 10px;
     vertical-align: middle;
-
-
 }
-
 
 .core {
     width: 22%;
     height: 350px;
     margin: 16px;
-    background-color: rgb(67, 178, 237, .8);
+    background-color: rgb(67, 178, 237, 0.8);
     font-size: x-large;
     color: rgb(16, 16, 16);
     text-align: center;
     float: left;
     display: block;
-
 }
 
 .physical {
@@ -214,7 +185,7 @@ h1 {
     width: 22%;
     height: 350px;
     margin: 16px;
-    background-color: rgb(16, 16, 16, .8);
+    background-color: rgb(16, 16, 16, 0.8);
     font-size: x-large;
     color: rgb(67, 178, 237);
     text-align: center;
@@ -227,7 +198,7 @@ h1 {
     width: 22%;
     height: 350px;
     margin: 16px;
-    background-color: rgb(67, 178, 237, .8);
+    background-color: rgb(67, 178, 237, 0.8);
     font-size: x-large;
     color: rgb(16, 16, 16);
     text-align: center;
@@ -249,12 +220,9 @@ h1 {
     width: 50%;
     height: 50%;
     padding: 35px;
-    background-color: rgb(67, 178, 237, .8);
+    background-color: rgb(67, 178, 237, 0.8);
     text-align: center;
     margin-top: 20px;
-
-
-
 }
 
 .myclasses h2 {
@@ -264,7 +232,7 @@ h1 {
 .class-timetable {
     width: 100%;
     height: 80%;
-    background-color: rgba(188, 187, 187, .5);
+    background-color: rgba(188, 187, 187, 0.5);
     text-align: center;
     font-family: oswald;
     text-transform: uppercase;
@@ -276,19 +244,14 @@ h1 {
     font-size: x-large;
     color: rgb(16, 16, 16);
     width: 100%;
-
 }
 
 .myTimetable {
     width: 100%;
-
-
 }
-
 
 .myTimetable thead {
     color: rgb(16, 16, 16);
-
 }
 
 .myTimetable td {
@@ -297,11 +260,10 @@ h1 {
 }
 
 .myTimetable tbody tr td:first-child {
-    background-color: rgb(16, 16, 16, .8);
+    background-color: rgb(16, 16, 16, 0.8);
     font-weight: bold;
     font-size: large;
 }
-
 
 .class {
     font-size: large;
@@ -317,39 +279,32 @@ h1 {
     margin: 4px;
     width: 100px;
     height: 50px;
-
 }
 
-#stretch {
-    background-color: rgb(128, 220, 128, .8);
+.stretch {
+    background-color: rgb(128, 220, 128, 0.8);
     text-align: center;
 }
 
-#bjj {
-    background-color: rgb(67, 178, 237, .8);
+.bjj {
+    background-color: rgb(67, 178, 237, 0.8);
     text-align: center;
-
 }
 
-#intermediate {
+.intermediate {
     background-color: rgb(109, 3, 109);
     text-align: center;
-
 }
 
-#womenbjj {
+.womenbjj {
     background-color: rgba(245, 80, 206, 0.931);
     text-align: center;
-
 }
 
-#adult-mma {
+.adult-mma {
     background-color: rgb(111, 32, 32);
     text-align: center;
-
-
 }
-
 
 #contact-us {
     color: rgb(16, 16, 16);
@@ -359,42 +314,34 @@ h1 {
     text-align: center;
 }
 
-
 .form {
     width: 600px;
     height: 350px;
     margin: 0 auto;
     padding: 20px;
-    background-color: rgb(67, 178, 237, .8);
+    background-color: rgb(67, 178, 237, 0.8);
     border: 1px solid rgb(16, 16, 16);
-
 }
 
 .firstname {
     color: rgb(16, 16, 16);
     font-size: larger;
-
 }
 
 .lastname {
     color: rgb(16, 16, 16);
     font-size: larger;
-
 }
 
 .emailaddress {
     color: rgb(16, 16, 16);
     font-size: larger;
-
 }
-
 
 .send {
     color: rgb(16, 16, 16);
     font-size: larger;
-
 }
-
 
 .submit {
     height: 75px;
@@ -404,9 +351,7 @@ h1 {
     color: rgb(16, 16, 16);
     background-color: rgba(188, 187, 187, 0.8);
     text-align: center;
-    border: solid 2px rgb(67, 178, 237, .8);
-
-
+    border: solid 2px rgb(67, 178, 237, 0.8);
 }
 
 .submit-form {
@@ -414,16 +359,10 @@ h1 {
     width: 100%;
     text-align: center;
     margin: 75px 0px;
-
-
 }
 
-
-
-
-
 .text-input {
-    background-color: rgb(245, 245, 245, .8);
+    background-color: rgb(245, 245, 245, 0.8);
     color: rgb(16, 16, 16);
     font-size: larger;
     height: 30px;
@@ -434,7 +373,7 @@ h1 {
     display: block;
 }
 
-.footer {
+.myfooter {
     height: 150px;
     width: 100%;
     min-height: 150px;
@@ -442,12 +381,10 @@ h1 {
     flex-direction: column;
     background-color: rgb(67, 178, 237, 0.8);
     margin-top: 75px;
-
 }
 
 .socials {
     text-align: center;
-
 }
 
 .socials li {
@@ -459,7 +396,6 @@ h1 {
     margin: 1%;
     padding: 5%;
     color: rgb(16, 16, 16);
-    ;
 }
 
 @media screen and (max-width: 1200px) {}
