@@ -64,3 +64,5 @@ Added the form section back into contact.html on lines 33 to 44. Tested the code
 
 I've moved the h2 inside the form section and removed the trailing slashes and retested the code and there are no errors found.
 
+I added the code for the submit button on line 45 to 47 and again got the message about th h2 - h6. this time I changed the section to a div instead of adding a h element and retested the code. No errors to report.
+
