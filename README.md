@@ -60,3 +60,5 @@ Deleted h2 from line 58 to 60 in timetable.html as it was meant to be inside the
 
 Ive added the 'contact us' h2 to the contact.html page on line 32. I tested the code and got the same message about the trailing slash as I didnt copy and paste the edited version of the code over after correcting it on the index.html page. Ive corrected and retested and have no errors.
 
+Added the form section back into contact.html on lines 33 to 44. Tested the code and got the trailing slash message again but this time it was on the form. I also got the same message as before on the timetable secton advising me there was no h2 - h6 element inside the section. I'll change that and see what happens.
+
