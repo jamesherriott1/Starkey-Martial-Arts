@@ -42,7 +42,11 @@ Adeded line 78 to 115 and tested code. No errors to report.
 
 Added footer section. Line 116 to 131. Tested code. No errors to report.
 
-## timetable.html 
+### pop up modal
+
+Ive added a pop up modal to lines 33 to 51 which i took from [bootstrap] (https://getbootstrap.com/docs/4.0/components/modal/). I've tested the code and found no errors so I changed the text to suit my requirements.
+
+## timetable.html
 
 Added the h2 section to the timetable page. lines 49 to 57. Tested code and found no errors.
 
@@ -52,7 +56,7 @@ Deleted the id's and classes from all timetable.html sections.
 
 Added timetable section to timetable.html from line 62 to 294. I used some HTML and CSS from [101 Computing](<https://www.101computing.net/my-timetable-in-html-css/>) for the basic structure of my timetable and added or removed code as neccessary.I tested the code and found 1 error 'Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed'. I will add a h2 and see what happens.
 
-Added a h2 element inside the timetable section on line 63. Tested code. No errors found. 
+Added a h2 element inside the timetable section on line 63. Tested code. No errors found.
 
 Deleted h2 from line 58 to 60 in timetable.html as it was meant to be inside the section.
 
@@ -66,3 +70,6 @@ I've moved the h2 inside the form section and removed the trailing slashes and r
 
 I added the code for the submit button on line 45 to 47 and again got the message about th h2 - h6. this time I changed the section to a div instead of adding a h element and retested the code. No errors to report.
 
+<!--There were some styling issues with the submit button being inside my form element so I Googled how to put it outside and styled it.
+I got the code from [Dev Diaries](https://www.dev-diaries.com/social-posts/html-submit-button-outside-form/#:~:text=For%20a%20HTML%20form%20element,with%20the%20button's%20form%20property.)
+-->
