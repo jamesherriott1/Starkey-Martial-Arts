@@ -29,3 +29,4 @@ To resolve the issue I removed the trailing slash where appropriate.
 Copied the newly tested code to contact and timetable pages now there are no errors or info messages.
 Checked nav element works on all pages correctly.
 Added sections from line 33 to 77 and tested code. No errors to report.
+Adeded line 78 to 115 and tested code. No errors to report.
