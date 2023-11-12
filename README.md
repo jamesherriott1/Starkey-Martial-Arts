@@ -73,3 +73,9 @@ I added the code for the submit button on line 45 to 47 and again got the messag
 <!--There were some styling issues with the submit button being inside my form element so I Googled how to put it outside and styled it.
 I got the code from [Dev Diaries](https://www.dev-diaries.com/social-posts/html-submit-button-outside-form/#:~:text=For%20a%20HTML%20form%20element,with%20the%20button's%20form%20property.)
 -->
+
+## CSS
+
+I've added some style to the main page. I've added a font family and background image and some style to the header id and h1.
+<!--add screenshot of page with style-->
+
