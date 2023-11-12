@@ -16,3 +16,22 @@ h1 {
     color: rgb(16, 16, 16);
     margin-left: 50px;
 }
+
+#logo {
+    float: left;
+    font-size: 250%;
+}
+
+#menu {
+    height: 100px;
+    width: 50%;
+    float: right;
+    list-style-type: none;
+    letter-spacing: 4px;
+    color: rgb(16, 16, 16);
+}
+
+#logo,
+#menu a {
+    line-height: 75px;
+}
