@@ -3,3 +3,16 @@
 .background-image {
     background-image: url("https://i.imgur.com/GJaNFYj.jpg");
 }
+#header {
+    height: 150px;
+    width: 100%;
+    background-color: rgb(67, 178, 237);
+}
+
+h1 {
+    font-family: oswald;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: rgb(16, 16, 16);
+    margin-left: 50px;
+}
