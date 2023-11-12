@@ -82,5 +82,5 @@ Added menu and logo id's to the style.ccs file. I also added the menu id to the 
 
 Added id and class to h2 divs and an id to the classes section. Tested the code and got an error. I left some whitespace in the myclass id. Corrected and retested, no errors found. 
 
-added the cover text id to the css file and tested it. No errors found, but i do keep seeing the same warning and I'm not quite sure what it means. The page is starting to come together in the browser too.
+Added the cover text id to the css file and tested it. No errors found, but i do keep seeing the same warning and I'm not quite sure what it means. The page is starting to come together in the browser too.
 <!--add screen shots of css warning and web page-->
