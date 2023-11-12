@@ -30,3 +30,4 @@ Copied the newly tested code to contact and timetable pages now there are no err
 Checked nav element works on all pages correctly.
 Added sections from line 33 to 77 and tested code. No errors to report.
 Adeded line 78 to 115 and tested code. No errors to report.
+Added footer section. Line 116 to 131. Tested code. No errors to report.
