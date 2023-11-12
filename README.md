@@ -25,11 +25,21 @@ There are bits missing which i would like to add at a later date. For example, t
 This was the original idea which I'd put together in Balsamiq.
 
 Tested code and got no errors. i did get an info message saying Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.
+
 To resolve the issue I removed the trailing slash where appropriate.
+
 Copied the newly tested code to contact and timetable pages now there are no errors or info messages.
+
 Checked nav element works on all pages correctly.
+
 Added sections from line 33 to 77 and tested code. No errors to report.
+
 Adeded line 78 to 115 and tested code. No errors to report.
+
 Added footer section. Line 116 to 131. Tested code. No errors to report.
 
 Added the h2 section to the timetable page. lines 49 to 57. Tested code and found no errors.
+
+Added class timetable h2 section to lines 58 to 60. Tested code. No errors found.
+
+Deleted the id's and classes from all timetable.html sections.
