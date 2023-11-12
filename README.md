@@ -43,3 +43,6 @@ Added the h2 section to the timetable page. lines 49 to 57. Tested code and foun
 Added class timetable h2 section to lines 58 to 60. Tested code. No errors found.
 
 Deleted the id's and classes from all timetable.html sections.
+
+Added timetable section to timetable.html and tested code. found 1 error 'Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed'. I will add a h2 and see what happens.
+
