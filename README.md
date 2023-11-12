@@ -55,3 +55,8 @@ Added timetable section to timetable.html from line 62 to 294. I used some HTML 
 Added a h2 element inside the timetable section on line 63. Tested code. No errors found. 
 
 Deleted h2 from line 58 to 60 in timetable.html as it was meant to be inside the section.
+
+## contact.html
+
+Ive added the 'contact us' h2 to the contact.html page on line 32. I tested the code and got the same message about the trailing slash as I didnt copy and paste the edited version of the code over after correcting it on the index.html page. Ive corrected and retested and have no errors.
+
