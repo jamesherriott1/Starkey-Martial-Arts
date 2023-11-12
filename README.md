@@ -20,9 +20,13 @@ In future I would like to add a coaches section, a logo to the header and anchor
 
 I've tried to make it as simple as possible and keep it within the colour schemes of the club.
 
-There are bits missing which i would like to add at a later date. For example, the club logo on the header was something that was left out becuase of the poor design of it on Canva.
+There are bits missing which i would like to add at a later date. For example, the club logo on the header was something that was left out because of the poor design of it on Canva.
 
 This was the original idea which I'd put together in Balsamiq.
+
+<!--add screenshot of wireframe-->
+
+## index.html
 
 Tested code and got no errors. i did get an info message saying Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.
 
@@ -37,6 +41,8 @@ Added sections from line 33 to 77 and tested code. No errors to report.
 Adeded line 78 to 115 and tested code. No errors to report.
 
 Added footer section. Line 116 to 131. Tested code. No errors to report.
+
+## timetable.html 
 
 Added the h2 section to the timetable page. lines 49 to 57. Tested code and found no errors.
 
