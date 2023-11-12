@@ -62,3 +62,5 @@ Ive added the 'contact us' h2 to the contact.html page on line 32. I tested the 
 
 Added the form section back into contact.html on lines 33 to 44. Tested the code and got the trailing slash message again but this time it was on the form. I also got the same message as before on the timetable secton advising me there was no h2 - h6 element inside the section. I'll change that and see what happens.
 
+I've moved the h2 inside the form section and removed the trailing slashes and retested the code and there are no errors found.
+
