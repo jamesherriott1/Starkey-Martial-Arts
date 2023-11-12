@@ -27,3 +27,4 @@ This was the original idea which I'd put together in Balsamiq.
 Tested code and got no errors. i did get an info message saying Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.
 To resolve the issue I removed the trailing slash where appropriate.
 Copied the newly tested code to contact and timetable pages now there are no errors or info messages.
+Checked nav element works on all pages correctly.
