@@ -76,6 +76,5 @@ I got the code from [Dev Diaries](https://www.dev-diaries.com/social-posts/html-
 
 ## CSS
 
-I've added some style to the main page. I've added a font family and background image and some style to the header id and h1.
+I've added some style to the main page. I've added a font family and background image and some style to the header id and h1. Tested css and found no errors
 <!--add screenshot of page with style-->
-
