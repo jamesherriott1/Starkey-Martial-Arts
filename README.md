@@ -79,3 +79,8 @@ I got the code from [Dev Diaries](https://www.dev-diaries.com/social-posts/html-
 I've added some style to the main page. I've added a font family and background image and some style to the header id and h1. Tested css and found no errors
 <!--add screenshot of page with style-->
 Added menu and logo id's to the style.ccs file. I also added the menu id to the unordered list inside the nav.
+
+Added id and class to h2 divs and an id to the classes section. Tested the code and got an error. I left some whitespace in the myclass id. Corrected and retested, no errors found. 
+
+added the cover text id to the css file and tested it. No errors found, but i do keep seeing the same warning and I'm not quite sure what it means. The page is starting to come together in the browser too.
+<!--add screen shots of css warning and web page-->
