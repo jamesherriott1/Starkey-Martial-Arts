@@ -42,6 +42,8 @@ Adeded line 78 to 115 and tested code. No errors to report.
 
 Added footer section. Line 116 to 131. Tested code. No errors to report.
 
+Corrected an error for a duplicate id in index.html. Retested the code and found no errors.
+
 ### pop up modal
 
 Ive added a pop up modal to lines 33 to 51 which i took from [bootstrap] (<https://getbootstrap.com/docs/4.0/components/modal/>). I've tested the code and found no errors so I changed the text to suit my requirements.

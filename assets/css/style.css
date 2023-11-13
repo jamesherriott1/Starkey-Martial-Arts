@@ -69,6 +69,14 @@ h1 {
     font-family: oswald;
 }
 
+#more-classes {
+    height: 450px;
+    width: 100%;
+    display: flex;
+    margin-top: 20px;
+    font-family: oswald;
+}
+
 .classes-header {
     font-size: x-large;
     font-family: oswald;
