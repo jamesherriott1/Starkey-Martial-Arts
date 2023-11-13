@@ -87,3 +87,4 @@ Added the cover text id to the css file and tested it. No errors found, but i do
 
 I've added classes and ids's to the css file and styled them. I tested the css and the html and there were no errors apart from the whitespace again.
 
+Added the rest of the css for the homepage apart form the modal and the navigation menu. Tested the css and the html and found no errors but the layout of the 3 classes divs arent going horizontally across the sreen and are stacked vertically down the left side.
