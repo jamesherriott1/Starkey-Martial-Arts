@@ -84,3 +84,6 @@ Added id and class to h2 divs and an id to the classes section. Tested the code 
 
 Added the cover text id to the css file and tested it. No errors found, but i do keep seeing the same warning and I'm not quite sure what it means. The page is starting to come together in the browser too.
 <!--add screen shots of css warning and web page-->
+
+I've added classes and ids's to the css file and styled them. I tested the css and the html and there were no errors apart from the whitespace again.
+
