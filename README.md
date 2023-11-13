@@ -102,8 +102,10 @@ Adeed the css for the timetable and tested the code for css and html. No errors 
 
 Added the block of css for the contact form and tested the code. No errors were found and the form looks exactly how I wanted it to.
 
+Added a #menu li to the css file to style the nav menu as i'd deleted the previous css by accident. I tested the code and found no errors.
+
 
 ### footer 
 
-I added the css for the footer and tested the code. No errors founds. I'm happy with the way it looks. CVould possibly add some more social media links at a later date.
+I added the css for the footer and tested the code. No errors founds. I'm happy with the way it looks. Could possibly add some more social media links at a later date.
 
