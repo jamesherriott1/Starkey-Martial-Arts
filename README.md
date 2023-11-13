@@ -76,6 +76,8 @@ I got the code from [Dev Diaries](https://www.dev-diaries.com/social-posts/html-
 
 ## CSS
 
+### index.html styling
+
 I've added some style to the main page. I've added a font family and background image and some style to the header id and h1. Tested css and found no errors
 <!--add screenshot of page with style-->
 Added menu and logo id's to the style.ccs file. I also added the menu id to the unordered list inside the nav.
@@ -88,3 +90,9 @@ Added the cover text id to the css file and tested it. No errors found, but i do
 I've added classes and ids's to the css file and styled them. I tested the css and the html and there were no errors apart from the whitespace again.
 
 Added the rest of the css for the homepage apart form the modal and the navigation menu. Tested the css and the html and found no errors but the layout of the 3 classes divs arent going horizontally across the sreen and are stacked vertically down the left side.
+
+
+### timetable.html styling
+
+Adeed the css for the timetable and tested the code for css and html. No errors but a warning about the section not having a header, so I changed the section to a div and retested the code and it was resolved. I did the same with the other sectons and the message disappeared when I retested the code.
+
