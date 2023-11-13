@@ -46,7 +46,11 @@ Corrected an error for a duplicate id in index.html. Retested the code and found
 
 ### pop up modal
 
-Ive added a pop up modal to lines 33 to 51 which i took from [bootstrap] (<https://getbootstrap.com/docs/4.0/components/modal/>). I've tested the code and found no errors so I changed the text to suit my requirements.
+<!--I changed this modal for another 1 that I found-->
+
+<!--Ive added a pop up modal to lines 33 to 51 which i took from [bootstrap] (<https://getbootstrap.com/docs/4.0/components/modal/>). I've tested the code and found no errors so I changed the text to suit my requirements.-->
+
+I found another modal and added it to the index.html file and added ther css to style.css file. I copy and pasted from here (<https://dev.to/veedjohnson/build-a-modal-pop-up-with-html-css-and-javascript-4md3>) and eited to my requirements
 
 ## timetable.html
 
@@ -77,9 +81,8 @@ I've moved the h2 inside the form section and removed the trailing slashes and r
 
 I added the code for the submit button on line 45 to 47 and again got the message about th h2 - h6. this time I changed the section to a div instead of adding a h element and retested the code. No errors to report.
 
-<!--There were some styling issues with the submit button being inside my form element so I Googled how to put it outside and styled it.
+<!--There were some styling issues with the submit button being inside my form element so I Googled how to put it outside and styled it-->
 I got the code from [Dev Diaries](https://www.dev-diaries.com/social-posts/html-submit-button-outside-form/#:~:text=For%20a%20HTML%20form%20element,with%20the%20button's%20form%20property.)
--->
 
 ## CSS
 
@@ -116,3 +119,8 @@ Added a #menu li to the css file to style the nav menu as i'd deleted the previo
 
 I added the css for the footer and tested the code. No errors founds. I'm happy with the way it looks. Could possibly add some more social media links at a later date.
 
+
+### modal styling
+
+I added a modal which I found on [veedjohnson] (<https://dev.to/veedjohnson/build-a-modal-pop-up-with-html-css-and-javascript-4md3>)
+I've deleted a few of ther inputs and the close button and added my own button. It isnt closing the modal and neither is the sumbit button.
