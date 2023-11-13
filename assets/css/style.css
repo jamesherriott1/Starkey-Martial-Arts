@@ -280,3 +280,70 @@ h1 {
     background-color: rgb(111, 32, 32);
     text-align: center;
 }
+
+#contact-us {
+    color: rgb(16, 16, 16);
+    font-size: xx-large;
+    font-weight: bold;
+    margin: 100px;
+    text-align: center;
+}
+
+.form {
+    width: 600px;
+    height: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(67, 178, 237, 0.8);
+    border: 1px solid rgb(16, 16, 16);
+}
+
+.firstname {
+    color: rgb(16, 16, 16);
+    font-size: larger;
+}
+
+.lastname {
+    color: rgb(16, 16, 16);
+    font-size: larger;
+}
+
+.emailaddress {
+    color: rgb(16, 16, 16);
+    font-size: larger;
+}
+
+.send {
+    color: rgb(16, 16, 16);
+    font-size: larger;
+}
+
+.submit {
+    height: 75px;
+    width: 150px;
+    font-size: larger;
+    font-family: oswald;
+    color: rgb(16, 16, 16);
+    background-color: rgba(188, 187, 187, 0.8);
+    text-align: center;
+    border: solid 2px rgb(67, 178, 237, 0.8);
+}
+
+.submit-form {
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    margin: 75px 0px;
+}
+
+.text-input {
+    background-color: rgb(245, 245, 245, 0.8);
+    color: rgb(16, 16, 16);
+    font-size: larger;
+    height: 30px;
+    width: 75%;
+    margin: 5px 20px;
+    border: 1px solid rgb(16, 16, 16);
+    text-align: left;
+    display: block;
+}
