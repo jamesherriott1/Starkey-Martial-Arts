@@ -235,7 +235,7 @@ h1 {
 }
 
 .myTimetable tbody tr td:first-child {
-    background-color: rgb(16, 16, 16, 0.8);
+    background-color: rgba(188, 187, 187, 0.5);
     font-weight: bold;
     font-size: large;
 }
