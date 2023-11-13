@@ -30,36 +30,17 @@
         </ul>
       </nav>
     </header>
-    <div class="modal" tabindex="-1" role="dialog">
-      <div class="modal-dialog" role="document">
-        <div class="modal-content">
-          <div class="modal-header">
-            <h5 class="modal-title">Sign Up To Our Newsletter</h5>
-            <button
-              type="button"
-              class="close"
-              data-dismiss="modal"
-              aria-label="Close"
-            >
-              <span aria-hidden="true">&times;</span>
-            </button>
-          </div>
-          <div class="modal-body">
-            <p>Enter Your Email Address.</p>
-          </div>
-          <div class="modal-footer">
-            <button type="button" class="btn btn-primary">Submit</button>
-            <button
-              type="button"
-              class="btn btn-secondary"
-              data-dismiss="modal"
-            >
-              Dismiss
-            </button>
-          </div>
+    <div class="mymodal">
+        <div>
+            <button class="close-modal">&times;</button>
+            <h1>Sign Up!</h1>
+            <form action="">
+                <input type="email" placeholder="Email">
+                <button type="submit">Go!</button>
+            </form>
         </div>
-      </div>
-    </div>
+        </div>
+        <div class="overlay hidden"></div>
     <section>
       <div id="cover-text">
         <h2>
