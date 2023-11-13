@@ -347,3 +347,28 @@ h1 {
     text-align: left;
     display: block;
 }
+
+.myfooter {
+    height: 150px;
+    width: 100%;
+    min-height: 150px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(67, 178, 237, 0.8);
+    margin-top: 75px;
+}
+
+.socials {
+    text-align: center;
+}
+
+.socials li {
+    display: inline;
+}
+
+.socials i {
+    font-size: 150%;
+    margin: 1%;
+    padding: 5%;
+    color: rgb(16, 16, 16);
+}
