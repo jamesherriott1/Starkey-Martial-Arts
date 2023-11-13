@@ -32,6 +32,15 @@ h1 {
     color: rgb(16, 16, 16);
 }
 
+#menu li {
+    float: right;
+    margin-right: 30px;
+    font-family: oswald;
+    
+
+
+}
+
 #logo,
 #menu a {
     line-height: 75px;
