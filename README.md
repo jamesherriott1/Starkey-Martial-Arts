@@ -64,6 +64,8 @@ Deleted h2 from line 58 to 60 in timetable.html as it was meant to be inside the
 
 The footer wasn't showing correctly on the web page so I went through the html and found I'd copied and pasted the timetable inside the footer. Problem solved and now showing correctly.
 
+I had an error for an unclosed footer element when I tested the code so I copied the footer from the index.html code ans pasted it into the footer on the timetable.html file. Problem solved.
+
 
 ## contact.html
 
@@ -96,9 +98,12 @@ I've added classes and ids's to the css file and styled them. I tested the css a
 
 Added the rest of the css for the homepage apart form the modal and the navigation menu. Tested the css and the html and found no errors but the layout of the 3 classes divs arent going horizontally across the sreen and are stacked vertically down the left side.
 
+I got an error in the html on index.html for a duplicate id so I had to copy and paste the css for it and change the name to more-classes. This solved the issue and the code had no errors when I retested it.
+
 ### timetable.html styling
 
 Adeed the css for the timetable and tested the code for css and html. No errors but a warning about the section not having a header, so I changed the section to a div and retested the code and it was resolved. I did the same with the other sectons and the message disappeared when I retested the code.
+
 
 ### contact.html styling
 
