@@ -60,6 +60,9 @@ Added a h2 element inside the timetable section on line 63. Tested code. No erro
 
 Deleted h2 from line 58 to 60 in timetable.html as it was meant to be inside the section.
 
+The footer wasn't showing correctly on the web page so I went through the html and found I'd copied and pasted the timetable inside the footer. Problem solved and now showing correctly.
+
+
 ## contact.html
 
 Ive added the 'contact us' h2 to the contact.html page on line 32. I tested the code and got the same message about the trailing slash as I didnt copy and paste the edited version of the code over after correcting it on the index.html page. Ive corrected and retested and have no errors.
@@ -98,3 +101,9 @@ Adeed the css for the timetable and tested the code for css and html. No errors 
 ### contact.html styling
 
 Added the block of css for the contact form and tested the code. No errors were found and the form looks exactly how I wanted it to.
+
+
+### footer 
+
+I added the css for the footer and tested the code. No errors founds. I'm happy with the way it looks. CVould possibly add some more social media links at a later date.
+
