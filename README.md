@@ -44,7 +44,7 @@ Added footer section. Line 116 to 131. Tested code. No errors to report.
 
 ### pop up modal
 
-Ive added a pop up modal to lines 33 to 51 which i took from [bootstrap] (https://getbootstrap.com/docs/4.0/components/modal/). I've tested the code and found no errors so I changed the text to suit my requirements.
+Ive added a pop up modal to lines 33 to 51 which i took from [bootstrap] (<https://getbootstrap.com/docs/4.0/components/modal/>). I've tested the code and found no errors so I changed the text to suit my requirements.
 
 ## timetable.html
 
@@ -82,7 +82,7 @@ I've added some style to the main page. I've added a font family and background 
 <!--add screenshot of page with style-->
 Added menu and logo id's to the style.ccs file. I also added the menu id to the unordered list inside the nav.
 
-Added id and class to h2 divs and an id to the classes section. Tested the code and got an error. I left some whitespace in the myclass id. Corrected and retested, no errors found. 
+Added id and class to h2 divs and an id to the classes section. Tested the code and got an error. I left some whitespace in the myclass id. Corrected and retested, no errors found.
 
 Added the cover text id to the css file and tested it. No errors found, but i do keep seeing the same warning and I'm not quite sure what it means. The page is starting to come together in the browser too.
 <!--add screen shots of css warning and web page-->
@@ -91,8 +91,10 @@ I've added classes and ids's to the css file and styled them. I tested the css a
 
 Added the rest of the css for the homepage apart form the modal and the navigation menu. Tested the css and the html and found no errors but the layout of the 3 classes divs arent going horizontally across the sreen and are stacked vertically down the left side.
 
-
 ### timetable.html styling
 
 Adeed the css for the timetable and tested the code for css and html. No errors but a warning about the section not having a header, so I changed the section to a div and retested the code and it was resolved. I did the same with the other sectons and the message disappeared when I retested the code.
 
+### contact.html styling
+
+Added the block of css for the contact form and tested the code. No errors were found and the form looks exactly how I wanted it to.
