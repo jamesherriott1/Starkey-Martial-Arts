@@ -66,6 +66,7 @@ h1 {
     width: 100%;
     display: flex;
     margin-top: 20px;
+    font-family: oswald;
 }
 
 .classes-header {
@@ -192,6 +193,7 @@ h1 {
 
 .gains {
     height: 350px;
+    font-family: oswald;
 }
 
 .myclasses {
