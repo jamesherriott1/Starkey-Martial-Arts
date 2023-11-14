@@ -52,6 +52,8 @@ Corrected an error for a duplicate id in index.html. Retested the code and found
 
 I found another modal and added it to the index.html file and added ther css to style.css file. I copy and pasted from here (<https://dev.to/veedjohnson/build-a-modal-pop-up-with-html-css-and-javascript-4md3>) and eited to my requirements
 
+I deleted the previous modal above as it wasn't working. It was replaced with (<https://codepad.co/snippet/pure-css-popup-box-on-hover>)
+
 ## timetable.html
 
 Added the h2 section to the timetable page. lines 49 to 57. Tested code and found no errors.
