@@ -2,6 +2,10 @@
 
  This is my first webpage and also my first project for ther course. Unfortunately the project wasn't given the time needed so it's not as complete as I would have liked.
 
+ ## Link to live site
+
+ (<https://jamesherriott1.github.io/starkey-martial-arts/>)
+
 ## Technologies Used For This Site
 
 For this project I used HTML5 and CSS3.
