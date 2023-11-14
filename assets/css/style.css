@@ -380,7 +380,7 @@ h1 {
     min-height: 150px;
     display: flex;
     flex-direction: column;
-    background-color: rgb(67, 178, 237, 0.8);
+    background-color: rgb (67, 178, 237, 0.8);
     margin-top: 75px;
 }
 
@@ -402,3 +402,39 @@ h1 {
 }
 
 
+.modal-open {
+    position: relative;
+  background-color: white;
+  width: 250px;
+  height: 100px;
+    
+
+}
+
+#modal {
+position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0,.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal__window {
+  position: relative;
+  background-color: white;
+  padding: 4em 2em;
+}
+
+.modal__close {
+  position: absolute;
+  top: 30px;
+  right: 10px;
+  color: rgb(16, 16, 16);
+}
+
+#modal:not(:target) {
+    visibility: hidden;
+    opacity: 0;
+}
