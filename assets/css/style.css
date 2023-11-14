@@ -292,7 +292,7 @@ h1 {
 }
 
 .womenbjj {
-    background-color: rgba(245, 80, 206, 0.931);
+    background-color: #f550ceed;
     text-align: center;
 }
 
@@ -321,7 +321,7 @@ h1 {
     margin: 0 auto;
     padding: 20px;
     background-color: rgb(67, 178, 237, 0.8);
-    border: 1px solid rgb(16, 16, 16);
+    border: 1px solid #101010;
 }
 
 .firstname {
@@ -352,7 +352,7 @@ h1 {
     color: rgb(16, 16, 16);
     background-color: rgba(188, 187, 187, 0.8);
     text-align: center;
-    border: solid 2px rgb(67, 178, 237, 0.8);
+    border: solid 2px #43b2edcc
 }
 
 .submit-form {
@@ -380,7 +380,7 @@ h1 {
     min-height: 150px;
     display: flex;
     flex-direction: column;
-    background-color: rgb (67, 178, 237, 0.8);
+    background-color: #43b2edcc;
     margin-top: 75px;
 }
 
@@ -403,24 +403,25 @@ h1 {
 
 #button
 {
-  position:relative;
+  position: absolute;
   top:100px;
   left:50vw;
   margin-left:-30px;
   width:60px;
   font-size:16px;
   padding:20px;
+  border-radius: 5px;
   background-color:white;
-  font-family:arial;
+  font-family:oswald;
   text-decoration:none;
   font-weight:bold;
-  color:black;
+  color:#101010;
 }
 
 #button:hover
 {
-  background-color:#EFF1F3;
-  color:#D77A61;
+  background-color:#43b2edcc;
+  color:#101010;
 }
 
 #popup
@@ -429,8 +430,8 @@ h1 {
   top:25vh;
   left:25vw;
   width:50vw;
-  background-color:#EFF1F3;
-  color:black;
+  background-color:#f550ceed;
+  color:#101010;
   -khtml-opacity:0;
   -moz-opacity : 0;
   -ms-filter: "alpha(opacity=0)";
@@ -479,11 +480,11 @@ h1 {
 {
   background-color:#EFF1F3;
   border-color:#bbd8b3;
-  color:#D77A61;
+  color:#101010;
 }
 
 #close:active
 {
   background-color:#A9F5F2;
-  color:black;
+  color: #101010;;
 }

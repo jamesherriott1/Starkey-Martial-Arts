@@ -122,5 +122,9 @@ I added the css for the footer and tested the code. No errors founds. I'm happy 
 
 ### modal styling
 
-I added a modal which I found on [veedjohnson] (<https://dev.to/veedjohnson/build-a-modal-pop-up-with-html-css-and-javascript-4md3>)
+I added a modal which I found on (<https://dev.to/veedjohnson/build-a-modal-pop-up-with-html-css-and-javascript-4md3>)
 I've deleted a few of ther inputs and the close button and added my own button. It isnt closing the modal and neither is the sumbit button.
+
+I couldnt get the previous modal working so I changed it again for this (<https://codepad.co/snippet/pure-css-popup-box-on-hover>)
+
+I changed some of the styling and the text and tested the code for the html and css and there were no errors. Everything works as it should.
